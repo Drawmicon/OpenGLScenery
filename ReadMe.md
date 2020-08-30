@@ -1,8 +1,8 @@
 ###### Using OpenGL libraries to create a simplistic scene of my University.
 
-**Linux Commands To Compile C++ Code:
+**Linux Commands To Compile C++ Code:**
 	`g++ landscape11.cpp -o land -lglut -lGLU -lGL
-	./land** `
+	./land `
 	
 Using the arrow keys allow the camera to pivot within a limit.
 
